@@ -1,0 +1,56 @@
+MINGW64_NT-10.0-22631 mako 3.6.4-b9f03e96.x86_64 2025-07-16 18:17 UTC x86_64 Msys
+
+Host Name:                 MAKO
+OS Name:                   Microsoft Windows 11 Home
+OS Version:                10.0.22631 N/A Build 22631
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          johnnyguan1122@gmail.com
+Registered Organization:   N/A
+Product ID:                00342-22113-21859-AAOEM
+Original Install Date:     9/13/2024, 7:08:30 AM
+System Boot Time:          10/3/2025, 9:58:47 AM
+System Manufacturer:       Acer
+System Model:              Nitro AN515-58
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 154 Stepping 3 GenuineIntel ~2500 Mhz
+BIOS Version:              Insyde Corp. V2.03, 2/24/2023
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-05:00) Eastern Time (US & Canada)
+Total Physical Memory:     16,088 MB
+Available Physical Memory: 5,121 MB
+Virtual Memory: Max Size:  23,256 MB
+Virtual Memory: Available: 8,757 MB
+Virtual Memory: In Use:    14,499 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\MAKO
+Hotfix(s):                 7 Hotfix(s) Installed.
+                           [01]: KB5064403
+                           [02]: KB5026039
+                           [03]: KB5027397
+                           [04]: KB5031274
+                           [05]: KB5041655
+                           [06]: KB5063875
+                           [07]: KB5062686
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Killer E2600 Gigabit Ethernet Controller
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Killer(R) Wi-Fi 6 AX1650i 160MHz Wireless Network Adapter (201NGW)
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.101.20.20
+                                 IP address(es)
+                                 [01]: 10.248.5.55
+                                 [02]: fe80::e239:bee5:a6aa:2aa6
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
